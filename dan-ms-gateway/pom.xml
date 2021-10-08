@@ -36,11 +36,19 @@
 			<scope>test</scope>
 		</dependency>
 
-		
+		<!-- Zuul for API Gateway -->
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-starter-netflix-zuul</artifactId>
 		</dependency>
+
+		<!-- Eureka Client to register API Gateway in our Eureka Server -->
+		<dependency>
+			<groupId>org.springframework.cloud</groupId>
+			<artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
+			<version>3.0.3</version>
+		</dependency>
+
 	</dependencies>
 
 	<dependencyManagement>
