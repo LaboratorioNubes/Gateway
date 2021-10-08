@@ -1,10 +1,10 @@
-package dan.ms.gateway.dan.ms.gateway;
+package danmsgateway.danmsgateway;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ApplicationTests {
+class DanMsGatewayApplicationTests {
 
 	@Test
 	void contextLoads() {

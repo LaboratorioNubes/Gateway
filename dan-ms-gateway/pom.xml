@@ -8,11 +8,11 @@
 		<version>2.5.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>dan.ms.gateway</groupId>
-	<artifactId>dan.ms.gateway</artifactId>
+	<groupId>dan-ms-gateway</groupId>
+	<artifactId>dan-ms-gateway</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>dan.ms.gateway</name>
-	<description>Demo project for Spring Boot</description>
+	<name>dan-ms-gateway</name>
+	<description>Spring API Gateway</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
